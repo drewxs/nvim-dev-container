@@ -20,7 +20,7 @@ Add the following to your `~/.bashrc` or `~/.zshrc`:
 
 ```sh
 # `devc` can be replaced with whatever you want
-alias devc='bash <(curl -s https://raw.githubusercontent.com/yourusername/docker-dev-container-helper/main/devc.sh)'
+alias devc='bash <(curl -s https://raw.githubusercontent.com/drewxs/nvim-dev-container/main/devc.sh)'
 ```
 
 Then you can use it like this: `devc <container_name>`.
